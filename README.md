@@ -31,7 +31,7 @@ This project was completed as part of the **NHS Digdata Challenge** and focuses 
 
 ### 2. Exploratory Data Analysis  
 - Visualized annual and monthly trends  
-- Filtered for top 10 antidepressants by quantity and cost  
+- Filtered for the top 10 antidepressants by quantity and cost  
 - Grouped data by region and drug
 
 ### 3. Key Visualizations  
@@ -48,8 +48,3 @@ This project was completed as part of the **NHS Digdata Challenge** and focuses 
 - The **North East and Yorkshire** region leads in total prescription quantity  
 - Monthly costs have **decreased** overall since 2021  
 - All regions showed a consistent **annual increase in prescription volume**
-
----
-
-## 📁 Repository Structure
-
