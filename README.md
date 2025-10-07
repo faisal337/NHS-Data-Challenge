@@ -4,7 +4,7 @@ This project was completed as part of the **NHS Digdata Challenge** and focuses 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand national and regional prescribing volumes and costs
 - Analyze monthly and annual prescribing trends
@@ -14,7 +14,7 @@ This project was completed as part of the **NHS Digdata Challenge** and focuses 
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (Jupyter Notebook)
 - **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
@@ -23,7 +23,7 @@ This project was completed as part of the **NHS Digdata Challenge** and focuses 
 
 ---
 
-## 🧪 Workflow Overview
+## Workflow Overview
 
 ### 1. Data Cleaning  
 - Combined multi-year NHS PCA datasets  
@@ -39,12 +39,3 @@ This project was completed as part of the **NHS Digdata Challenge** and focuses 
 - Most prescribed drug per year  
 - Top 10 prescribed drugs by volume and cost  
 - Regional prescription trends (North East, South West, East England, etc.)
-
-### 4. Key Findings  
-- **Sertraline hydrochloride** is the most prescribed antidepressant by both volume and total cost  
-- **Venlafaxine** ranks high in cost despite relatively fewer prescriptions—indicating higher per-unit price  
-- Several drugs (e.g., **Trimipramine**, **Vortioxetine**) are costly but prescribed less frequently  
-- **Trazodone**, **Paroxetine**, and **Escitalopram** are commonly prescribed but inexpensive  
-- The **North East and Yorkshire** region leads in total prescription quantity  
-- Monthly costs have **decreased** overall since 2021  
-- All regions showed a consistent **annual increase in prescription volume**
